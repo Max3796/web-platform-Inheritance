@@ -1,0 +1,15 @@
+/* Properties which are inherited by the child element*/
+body{
+  text-align: justify;
+  color: rgb(2, 253, 173);
+}
+
+
+/* Properties which are not inherited by the child element */
+body{
+  border: 2px solid black;
+  width: 500px;
+  margin: 100px;
+  padding: 20px;
+
+}
